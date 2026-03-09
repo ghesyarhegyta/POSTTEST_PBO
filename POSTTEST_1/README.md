@@ -108,6 +108,11 @@ Class utama yang berisi:
 
 ---
 
+### Exit
+![Exit](assets/exit.png)
+
+---
+
 # ⋆˚࿔ Konsep OOP yang Digunakan
 
 Program ini menerapkan beberapa konsep dasar **Object Oriented Programming**, yaitu:
@@ -120,4 +125,5 @@ Program ini menerapkan beberapa konsep dasar **Object Oriented Programming**, ya
 ---
 
 Made with love by **Ghesya Rhegyta Al Rachman** ₍ᐢ. .ᐢ₎ ₊˚⊹♡
+
 
