@@ -113,17 +113,7 @@ Class utama yang berisi:
 
 ---
 
-# ⋆˚࿔ Konsep OOP yang Digunakan
-
-Program ini menerapkan beberapa konsep dasar **Object Oriented Programming**, yaitu:
-
-- Class dan Object
-- Encapsulation
-- Penggunaan ArrayList sebagai penyimpanan data
-- Modularisasi program menggunakan beberapa class
-
----
-
 Made with love by **Ghesya Rhegyta Al Rachman** ₍ᐢ. .ᐢ₎ ₊˚⊹♡
+
 
 
